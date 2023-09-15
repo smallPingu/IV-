@@ -1,4 +1,4 @@
-# Objetivo 0
+![image](https://github.com/JJ/IV-/assets/134606360/5f74217a-820c-4c96-ae72-24a9fd0c6708)# Objetivo 0
 
 Añade en la tabla el enlace al PR en *tu* repositorio, siguiendo las
 instrucciones en [el guión](https://jj.github.io/IV/proyectos/objetivo-0). Usa
@@ -21,7 +21,7 @@ iniciales.
 | <!-- Enlace de C V C --> | | |
 | https://github.com/adelahera/basket-stats/pull/1 | v0.0.1 | |
 | <!-- Enlace de puchy22 --> | | |
-| https://github.com/carlotiii30/organizacionSemanal/pull/1 | V0.0.1 | |
+| <!-- Enlace de carlotiii30 --> | | |
 | <!-- Enlace de sergioffdez --> | | |
 | <!-- Enlace de DarckMonster --> | | |
 | <!-- Enlace de F A D --> | | |
@@ -35,9 +35,9 @@ iniciales.
 | <!-- Enlace de Morad02 --> | | |
 | <!-- Enlace de albertolj --> | | |
 | <!-- Enlace de Christianlr --> | | |
-| https://github.com/pluque01/Business-Stablisher/pull/1 | v0.0.1 | |
+| <!-- Enlace de pluque01 --> | | |
 | <!-- Enlace de josemponce --> | | |
-| <!-- Enlace de smallPingu --> | | |
+| [<!-- Enlace de smallPingu -->](https://github.com/smallPingu/antiTarjetas/tree/Objetivo-0) | v0.0.1 | |
 | <!-- Enlace de chelunike --> | | |
 | https://github.com/moshidev/MaquiTracker/pull/1 | v0.0.1 | ✓ |
 | <!-- Enlace de R L O E --> | | |
